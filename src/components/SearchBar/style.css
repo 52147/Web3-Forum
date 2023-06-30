@@ -1,0 +1,30 @@
+.search-bar {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 5px;
+  display: flex;
+  gap: 10px;
+  padding: 6px 13px;
+  position: relative;
+  width: 316px;
+}
+
+.search-bar .xnix-line-search {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.search-bar .search-all {
+  color: #c4c4c4;
+  font-family: "Barlow", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

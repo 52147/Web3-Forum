@@ -1,0 +1,1 @@
+export { IconsContentSmile } from "./IconsContentSmile";

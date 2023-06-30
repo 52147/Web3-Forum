@@ -1,0 +1,36 @@
+.xnix-line-suitcase {
+  height: 24px;
+  width: 24px;
+}
+
+.xnix-line-suitcase .div-wrapper {
+  height: 18px;
+  left: 6px;
+  position: relative;
+  top: 3px;
+  width: 12px;
+}
+
+.xnix-line-suitcase .overlap-group-3 {
+  height: 20px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 14px;
+}
+
+.xnix-line-suitcase .vector-9 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 14px;
+}
+
+.xnix-line-suitcase .vector-10 {
+  height: 20px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}

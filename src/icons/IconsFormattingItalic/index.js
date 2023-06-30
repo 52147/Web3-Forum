@@ -1,0 +1,1 @@
+export { IconsFormattingItalic } from "./IconsFormattingItalic";

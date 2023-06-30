@@ -1,0 +1,36 @@
+.xnix-line-bitcoin {
+  height: 24px;
+  width: 24px;
+}
+
+.xnix-line-bitcoin .overlap-group-wrapper {
+  height: 14px;
+  left: 7px;
+  position: relative;
+  top: 5px;
+  width: 9px;
+}
+
+.xnix-line-bitcoin .overlap-group-2 {
+  height: 16px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 11px;
+}
+
+.xnix-line-bitcoin .vector-7 {
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 9px;
+}
+
+.xnix-line-bitcoin .vector-8 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}

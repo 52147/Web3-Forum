@@ -1,0 +1,56 @@
+.icon-button {
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-button .learning {
+  color: #000000;
+  font-family: "Barlow", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.27px;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-button .xnix-line-book-instance {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.icon-button .learning-2 {
+  color: #000000;
+  font-family: "Barlow", Helvetica;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-button.large {
+  gap: 5px;
+}
+
+.icon-button.small {
+  gap: 2px;
+}
+
+.icon-button.large .learning-2 {
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.27px;
+  line-height: 24px;
+}
+
+.icon-button.small .learning-2 {
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 25px;
+}

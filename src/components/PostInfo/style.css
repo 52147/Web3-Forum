@@ -1,0 +1,23 @@
+.post-info {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.post-info .icon-button-instance {
+  width: 100px !important;
+}
+
+.post-info .design-component-instance-node {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.post-info .xnix-line-message {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
