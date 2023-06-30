@@ -1,0 +1,22 @@
+.xnix-line-dislike {
+  height: 24px;
+  width: 24px;
+}
+
+.xnix-line-dislike .vector {
+  height: 14px;
+  left: 4px;
+  position: relative;
+  top: 5px;
+  transform: rotate(180deg);
+  width: 16px;
+}
+
+.xnix-line-dislike .img {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  transform: rotate(-180deg);
+  width: 18px;
+}

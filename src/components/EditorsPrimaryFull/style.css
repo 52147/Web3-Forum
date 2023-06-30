@@ -1,0 +1,38 @@
+.editors-primary-full {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.editors-primary-full .main-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  padding: 16px;
+  position: relative;
+  width: 891px;
+}
+
+.editors-primary-full .standard {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 48px;
+  position: relative;
+}
+
+.editors-primary-full .div-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.editors-primary-full .icon-instance-node {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}

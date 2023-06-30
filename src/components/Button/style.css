@@ -1,0 +1,78 @@
+.button {
+  border-radius: 5px;
+  display: flex;
+  padding: 6px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.button .text-wrapper-4 {
+  font-family: "Barlow", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .down-arrow {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.button.default {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #ff1f1f;
+  gap: 10px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.button.default :hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);;
+}
+
+.button.drop-down {
+  align-items: center;
+  border: 1px solid;
+  border-color: #000000;
+  gap: 5px;
+}
+
+.button.CTA {
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.button.selected-true {
+  background-color: #d9d9d9;
+}
+
+.button.selected-false.drop-down {
+  background-color: #ffffff;
+}
+
+.button.CTA.selected-false {
+  background-color: #000000;
+}
+
+.button.selected-false.default {
+  background-color: #ffffff;
+}
+
+.button.drop-down .text-wrapper-4 {
+  color: #000000;
+}
+
+.button.CTA .text-wrapper-4 {
+  color: #ffffff;
+}
+
+.button.default .text-wrapper-4 {
+  color: #000000;
+}
