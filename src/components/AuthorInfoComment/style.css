@@ -1,0 +1,45 @@
+.author-info-comment {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.author-info-comment .frame-3 {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.author-info-comment .author {
+  color: #000000;
+  font-family: "Barlow", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.author-info-comment .element-hours-ago-2 {
+  color: #000000;
+  font-family: "Barlow", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.27px;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.author-info-comment .avatar-13 {
+  height: 40px !important;
+  min-width: 40px !important;
+  position: relative !important;
+}

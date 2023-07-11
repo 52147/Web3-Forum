@@ -1,0 +1,119 @@
+.single-post {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.single-post .frame {
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  position: relative;
+}
+
+.single-post .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 600px;
+}
+
+.single-post .lorem-ipsum-dfsoj {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Barlow", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.single-post .post-preview-nemo {
+  align-self: stretch;
+  color: #000000cc;
+  font-family: "Barlow", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.single-post .xnix-line-user-instance {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.single-post .class {
+  margin-right: -40px !important;
+}
+
+.single-post .xnix-line-message-2-10 {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.single-post .tag-group {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.single-post .up-down-button-instance {
+  font-size: 16px !important;
+  font-weight: 300 !important;
+  letter-spacing: 0 !important;
+  line-height: 25px !important;
+}
+
+.single-post .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 15px;
+  position: relative;
+  width: 1100px;
+}
+
+.single-post .rectangle {
+  background-color: #c4c4c4;
+  border-radius: 5px;
+  height: 272.92px;
+  min-width: 272.92px;
+  position: relative;
+}
+
+.single-post .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 272.92px;
+  min-width: 272.92px;
+  position: relative;
+}
+
+.single-post.show-image-true {
+  width: fit-content;
+}
+
+.single-post.show-image-false {
+  width: 1100px;
+}
+
+.single-post.show-image-true .frame {
+  width: fit-content;
+}
+
+.single-post.show-image-false .frame {
+  width: 1100px;
+}

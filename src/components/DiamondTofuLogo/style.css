@@ -1,11 +1,16 @@
 .diamond-tofu-logo {
   align-items: center;
   display: flex;
+<<<<<<< HEAD
   gap: 16px;
+=======
+  gap: 14px;
+>>>>>>> dev
   position: relative;
   width: fit-content;
 }
 
+<<<<<<< HEAD
 .diamond-tofu-logo .logo-2 {
   height: 43.43px !important;
   left: unset !important;
@@ -25,6 +30,16 @@
   font-weight: 400;
   letter-spacing: 0;
   line-height: normal;
+=======
+.diamond-tofu-logo .DIAMOND-tofu {
+  color: #ffffff;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.5px;
+>>>>>>> dev
   position: relative;
   width: 268px;
 }

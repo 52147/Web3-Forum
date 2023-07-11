@@ -1,0 +1,1 @@
+export { XnixLineDislike } from "./XnixLineDislike";

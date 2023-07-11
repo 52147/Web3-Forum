@@ -18,6 +18,7 @@
   width: fit-content;
 }
 
+<<<<<<< HEAD
 .header .text-wrapper-2 {
   color: #000000;
   font-family: var(--body-text-large-font-family);
@@ -26,6 +27,15 @@
   font-weight: var(--body-text-large-font-weight);
   letter-spacing: var(--body-text-large-letter-spacing);
   line-height: var(--body-text-large-line-height);
+=======
+.header .text-wrapper-5 {
+  color: #000000;
+  font-family: "Barlow", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0.27px;
+  line-height: 24px;
+>>>>>>> dev
   position: relative;
   text-align: center;
   white-space: nowrap;

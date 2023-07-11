@@ -7,6 +7,7 @@ import PropTypes from "prop-types";
 import React from "react";
 import { useReducer } from "react";
 import { DownArrow1 } from "../../icons/DownArrow1";
+import { DownArrow } from "../../icons/DownArrow";
 import "./style.css";
 
 export const Button = ({ hasIcon = true, text = "Button", selected, type }) => {
@@ -17,19 +18,27 @@ export const Button = ({ hasIcon = true, text = "Button", selected, type }) => {
   });
 
   return (
+   
     <div
       className={`button ${state.type} selected-${state.selected}`}
       onClick={() => {
         dispatch("click");
       }}
-    >
+     >
       <div className="div">{text}</div>
       {state.type === "drop-down" && (
         <>
-          <>{hasIcon && <DownArrow1 className="down-arrow" />}</>
+          {hasIcon && <DownArrow1 className="down-arrow" />}
+        </>
+      )}
+      <div className="text-wrapper-4">{text}</div>
+      {state.type === "drop-down" && (
+        <>
+          {hasIcon && <DownArrow className="down-arrow" />}
         </>
       )}
     </div>
+    
   );
 };
 

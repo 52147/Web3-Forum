@@ -8,10 +8,21 @@ import React from "react";
 import { Logo } from "../Logo";
 import "./style.css";
 
+<<<<<<< HEAD
 export const DiamondTofuLogo = ({ logoLogo = "/img/logo-2-3.svg" }) => {
   return (
     <div className="diamond-tofu-logo">
       <Logo className="logo-2" logo={logoLogo} />
+=======
+export const DiamondTofuLogo = ({
+  className,
+  logoLogo = "https://generation-sessions.s3.amazonaws.com/a11d1724769b2cccc8f9c5bd373bc329/img/logo-2-2.svg",
+  logoLogoClassName,
+}) => {
+  return (
+    <div className={`diamond-tofu-logo ${className}`}>
+      <Logo className={logoLogoClassName} logo={logoLogo} />
+>>>>>>> dev
       <div className="DIAMOND-tofu">
         <span className="text-wrapper">DIAMOND</span>
         <span className="span"> Tofu</span>

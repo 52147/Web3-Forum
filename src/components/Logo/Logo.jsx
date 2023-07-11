@@ -7,7 +7,14 @@ import PropTypes from "prop-types";
 import React from "react";
 import "./style.css";
 
+<<<<<<< HEAD
 export const Logo = ({ className, logo = "/img/logo-2-5.svg" }) => {
+=======
+export const Logo = ({
+  className,
+  logo = "https://generation-sessions.s3.amazonaws.com/a11d1724769b2cccc8f9c5bd373bc329/img/logo-2-4.svg",
+}) => {
+>>>>>>> dev
   return <img className={`logo ${className}`} alt="Logo" src={logo} />;
 };
 
