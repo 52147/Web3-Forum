@@ -10,6 +10,9 @@ const router = createBrowserRouter([
   },{
     path: "feed",
     element: <PostFeedPage/>
+  },{
+    path: "login",
+    element: <LogIn/>
   }
 ]);
 
