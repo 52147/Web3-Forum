@@ -2,7 +2,8 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { AboutUsPage } from "./screens/AboutUsPage";
 import { HomePage } from "./screens/HomePage";
-import {PostFeedPage} from "./screens/PostFeedPage"
+import {PostFeedPage} from "./screens/PostFeedPage";
+import {LogIn} from "./screens/LogIn"
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,9 @@ const router = createBrowserRouter([
   },{
     path: "feed",
     element: <PostFeedPage/>
+  },{
+    path: "login",
+    element: <LogIn/>
   }
 ]);
 
