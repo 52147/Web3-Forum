@@ -1,0 +1,38 @@
+.diamond-tofu-logo {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.diamond-tofu-logo .logo-2 {
+  height: 43.43px !important;
+  left: unset !important;
+  margin-bottom: -1.69px !important;
+  margin-left: -1.74px !important;
+  margin-top: -1.74px !important;
+  min-width: 47.42px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.diamond-tofu-logo .DIAMOND-tofu {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 268px;
+}
+
+.diamond-tofu-logo .text-wrapper {
+  font-weight: 500;
+}
+
+.diamond-tofu-logo .span {
+  font-family: "Comfortaa", Helvetica;
+}

@@ -1,0 +1,23 @@
+:root {
+  --body-text-font-family: "Barlow-Light", Helvetica;
+  --body-text-font-size: 16px;
+  --body-text-font-style: normal;
+  --body-text-font-weight: 300;
+  --body-text-large-font-family: "Barlow-Regular", Helvetica;
+  --body-text-large-font-size: 18px;
+  --body-text-large-font-style: normal;
+  --body-text-large-font-weight: 400;
+  --body-text-large-letter-spacing: 0.27px;
+  --body-text-large-line-height: 24px;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: 25px;
+  --button-cta-fill: rgba(0, 0, 0, 1);
+  --button-cta-text: rgba(255, 255, 255, 1);
+  --heading-font-family: "Barlow-Bold", Helvetica;
+  --heading-font-size: 36px;
+  --heading-font-style: normal;
+  --heading-font-weight: 700;
+  --heading-letter-spacing: -0.54px;
+  --heading-line-height: 44px;
+  --neutral-gray-3: rgba(217, 217, 217, 1);
+}
