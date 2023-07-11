@@ -1,0 +1,85 @@
+.log-in {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .log-in .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 500px;
+    position: relative;
+    width: 500px;
+  }
+  
+  .log-in .h-1 {
+    color: #000000;
+    font-family: var(--heading-2-font-family);
+    font-size: var(--heading-2-font-size);
+    font-style: var(--heading-2-font-style);
+    font-weight: var(--heading-2-font-weight);
+    left: 120px;
+    letter-spacing: var(--heading-2-letter-spacing);
+    line-height: var(--heading-2-line-height);
+    position: absolute;
+    text-align: center;
+    top: 74px;
+    white-space: nowrap;
+    width: 261px;
+  }
+  
+  .log-in .frame {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    left: 120px;
+    position: absolute;
+    top: 170px;
+    width: fit-content;
+  }
+  
+  .log-in .group {
+    height: 40px;
+    margin-right: -2px;
+    min-width: 263px;
+    position: relative;
+  }
+  
+  .log-in .overlap-group {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #00000080;
+    border-radius: 5px;
+    height: 40px;
+    position: relative;
+    width: 261px;
+  }
+  
+  .log-in .text-wrapper-2 {
+    color: #000000cc;
+    font-family: var(--body-text-font-family);
+    font-size: var(--body-text-font-size);
+    font-style: var(--body-text-font-style);
+    font-weight: var(--body-text-font-weight);
+    left: 11px;
+    letter-spacing: var(--body-text-letter-spacing);
+    line-height: var(--body-text-line-height);
+    position: absolute;
+    top: 7px;
+    white-space: nowrap;
+    width: 210px;
+  }
+  
+  .log-in .button-wrapper {
+    align-items: flex-start;
+    display: flex;
+    gap: 25px;
+    left: 190px;
+    position: absolute;
+    top: 389px;
+    width: fit-content;
+  }
+  
