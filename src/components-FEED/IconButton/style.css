@@ -1,0 +1,60 @@
+.icon-button {
+  align-items: flex-end;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-button .learning {
+  color: #000000;
+  font-family: var(--body-text-large-font-family);
+  font-size: var(--body-text-large-font-size);
+  font-style: var(--body-text-large-font-style);
+  font-weight: var(--body-text-large-font-weight);
+  letter-spacing: var(--body-text-large-letter-spacing);
+  line-height: var(--body-text-large-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-button .learning-2 {
+  color: #000000;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-button .xnix-line-book-instance {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.icon-button.large {
+  gap: 5px;
+}
+
+.icon-button.small {
+  gap: 2px;
+}
+
+.icon-button.large .learning-2 {
+  font-family: var(--body-text-large-font-family);
+  font-size: var(--body-text-large-font-size);
+  font-style: var(--body-text-large-font-style);
+  font-weight: var(--body-text-large-font-weight);
+  letter-spacing: var(--body-text-large-letter-spacing);
+  line-height: var(--body-text-large-line-height);
+}
+
+.icon-button.small .learning-2 {
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}

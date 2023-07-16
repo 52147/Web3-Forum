@@ -1,0 +1,1 @@
+export { ShapeSquare } from "./ShapeSquare";

@@ -1,0 +1,1 @@
+export { IconsArrowsRedo } from "./IconsArrowsRedo";

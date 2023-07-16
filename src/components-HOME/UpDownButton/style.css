@@ -1,0 +1,27 @@
+.up-down-button {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.up-down-button .more-topics {
+  color: #000000;
+  font-family: var(--body-text-large-font-family);
+  font-size: var(--body-text-large-font-size);
+  font-style: var(--body-text-large-font-style);
+  font-weight: var(--body-text-large-font-weight);
+  letter-spacing: var(--body-text-large-letter-spacing);
+  line-height: var(--body-text-large-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.up-down-button .down-arrow-9 {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}

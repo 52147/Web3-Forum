@@ -1,0 +1,44 @@
+.xnix-line-book {
+  height: 24px;
+  width: 24px;
+}
+
+.xnix-line-book .overlap-group-wrapper {
+  height: 12px;
+  left: 5px;
+  position: relative;
+  top: 6px;
+  width: 14px;
+}
+
+.xnix-line-book .overlap-group {
+  height: 14px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 16px;
+}
+
+.xnix-line-book .img {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.xnix-line-book .vector-2 {
+  height: 14px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.xnix-line-book .vector-3 {
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 10px;
+}

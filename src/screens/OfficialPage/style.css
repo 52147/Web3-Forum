@@ -1,0 +1,117 @@
+.official-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.official-page .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 2071px;
+  position: relative;
+  width: 1441px;
+}
+
+.official-page .frame-5 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 80px;
+  position: absolute;
+  top: 220px;
+  width: fit-content;
+}
+
+.official-page .frame-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 1280px;
+}
+
+.official-page .frame-7 {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 1280px;
+}
+
+.official-page .h-1 {
+  color: #000000;
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-font-size);
+  font-style: var(--heading-font-style);
+  font-weight: var(--heading-font-weight);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.official-page .icon-button-instance {
+  font-family: var(--body-text-font-family) !important;
+  font-size: var(--body-text-font-size) !important;
+  font-style: var(--body-text-font-style) !important;
+  font-weight: var(--body-text-font-weight) !important;
+  letter-spacing: var(--body-text-letter-spacing) !important;
+  line-height: var(--body-text-line-height) !important;
+}
+
+.official-page .language {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.official-page .lorem-ipsum-dolor-wrapper {
+  align-self: stretch;
+  height: 300px;
+  min-width: 1280px;
+  position: relative;
+}
+
+.official-page .lorem-ipsum-dolor {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: -1px;
+  width: 1280px;
+}
+
+.official-page .rectangle-2 {
+  height: 647.22px;
+  min-width: 1280px;
+  position: relative;
+}
+
+.official-page .header-instance {
+  left: 0 !important;
+  mix-blend-mode: normal !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.official-page .footer-instance {
+  left: 0 !important;
+  mix-blend-mode: normal !important;
+  position: absolute !important;
+  top: 1855px !important;
+}
+
+.official-page .design-component-instance-node {
+  width: 16px !important;
+}

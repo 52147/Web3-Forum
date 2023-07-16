@@ -1,0 +1,1 @@
+export { UpArrow } from "./UpArrow";

@@ -1,0 +1,1 @@
+export { DiamondTofuLogo } from "./DiamondTofuLogo";

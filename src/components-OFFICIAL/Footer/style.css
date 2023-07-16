@@ -1,0 +1,57 @@
+.footer {
+  background-color: #4c4c4d;
+  height: 216px;
+  position: relative;
+  width: 1441px;
+}
+
+.footer .diamond-tofu-logo-footer {
+  left: 1126px !important;
+  position: absolute !important;
+  top: 160px !important;
+}
+
+.footer .frame-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 80px;
+  position: absolute;
+  top: 60px;
+  width: fit-content;
+}
+
+.footer .frame-4 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .icon-instance-node {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.footer .text-wrapper-8 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .xnix-line-envelope-instance {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}

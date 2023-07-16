@@ -1,0 +1,47 @@
+.round-button {
+  align-items: center;
+  border-radius: 22px;
+  display: flex;
+  gap: 5px;
+  padding: 6px 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.round-button .plus-sign-2 {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.round-button .button-2 {
+  font-family: var(--body-text-large-font-family);
+  font-size: var(--body-text-large-font-size);
+  font-style: var(--body-text-large-font-style);
+  font-weight: var(--body-text-large-font-weight);
+  letter-spacing: var(--body-text-large-letter-spacing);
+  line-height: var(--body-text-large-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.round-button.primary {
+  background-color: var(--button-cta-fill);
+}
+
+.round-button.secondary {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.round-button.primary .button-2 {
+  color: var(--button-cta-text);
+}
+
+.round-button.secondary .button-2 {
+  color: #000000;
+}

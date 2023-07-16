@@ -1,0 +1,1 @@
+export { IconsStandardInsertembed } from "./IconsStandardInsertembed";

@@ -1,0 +1,26 @@
+.diamond-tofu-logo-wrapper {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.diamond-tofu-logo-wrapper .DIAMOND-tofu-2 {
+  color: #000000;
+  font-family: "Futura-Medium", Helvetica;
+  font-size: 28px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 268px;
+}
+
+.diamond-tofu-logo-wrapper .text-wrapper-3 {
+  font-weight: 500;
+}
+
+.diamond-tofu-logo-wrapper .text-wrapper-4 {
+  font-family: "Comfortaa", Helvetica;
+}

@@ -1,0 +1,27 @@
+.info {
+  align-items: center;
+  display: flex;
+  gap: 2px;
+  position: relative;
+  width: fit-content;
+}
+
+.info .author-2 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.info .xnix-line-user-instance {
+  min-width: 24px !important;
+  position: relative !important;
+  width: unset !important;
+}

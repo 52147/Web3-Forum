@@ -1,0 +1,1 @@
+export { OfficialPage } from "./OfficialPage";

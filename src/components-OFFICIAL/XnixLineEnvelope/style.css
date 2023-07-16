@@ -1,0 +1,20 @@
+.xnix-line-envelope {
+  height: 24px;
+  width: 24px;
+}
+
+.xnix-line-envelope .vector {
+  height: 14px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 15px;
+}
+
+.xnix-line-envelope .rectangle {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 17px;
+}

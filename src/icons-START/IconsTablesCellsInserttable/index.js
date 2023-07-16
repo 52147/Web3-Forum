@@ -1,0 +1,1 @@
+export { IconsTablesCellsInserttable } from "./IconsTablesCellsInserttable";

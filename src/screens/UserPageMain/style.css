@@ -1,0 +1,287 @@
+.app-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.user-page-main {
+  display: grid;
+  place-items: center;
+  height: 100vh; 
+}
+
+
+.content-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-area {
+  width: 100%;
+}
+
+.user-page-main .div-2 {
+  background-color: #ffffff;
+  border: 1px none;
+  width: 100%;
+  flex-grow: 1; 
+}
+
+.user-page-main .footer {
+  background-color: #4c4c4d;
+ height: 400px;
+ left: 0; 
+  mix-blend-mode: normal;
+ position: absolute; 
+ top: 1285px; 
+  width: 1441px; 
+}
+
+.user-page-main .diamond-tofu-logo-footer {
+  left: 1126px !important;
+  position: absolute !important;
+  top: 160px !important;
+}
+
+.user-page-main .diamond-tofu-logo-instance {
+  height: 30px !important;
+  left: unset !important;
+  min-width: 32.96px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.user-page-main .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 80px;
+  position: absolute;
+  top: 60px;
+  width: fit-content;
+}
+
+.user-page-main .frame-3 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.user-page-main .icon-instance-node {
+  height: 24px !important;
+  min-width: 24px !important;
+  position: relative !important;
+}
+
+.user-page-main .text-wrapper-7 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-page-main .vector {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/139904ab1a277e055fd92374fa28d752/img/rectangle-1557-2.svg);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 15px;
+}
+
+.user-page-main .overlap {
+  height: 590px;
+  left: 0;
+  position: absolute;
+  top: 100px;
+  width: 1440px;
+}
+
+.user-page-main .overlap-group {
+  height: 590px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.user-page-main .cover {
+  height: 490px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.user-page-main .avatar-instance {
+  height: 200px !important;
+  left: 620px !important;
+  position: absolute !important;
+  top: 390px !important;
+  width: 200px !important;
+}
+
+.user-page-main .settings {
+  height: 48px;
+  left: 1379px;
+  position: absolute;
+  top: 507px;
+  width: 48px;
+}
+
+.user-page-main .frame-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 578px;
+  position: absolute;
+  top: 720px;
+  width: fit-content;
+}
+
+.user-page-main .frame-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.user-page-main .h-1 {
+  color: #000000;
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-font-size);
+  font-style: var(--heading-font-style);
+  font-weight: var(--heading-font-weight);
+  letter-spacing: var(--heading-letter-spacing);
+  line-height: var(--heading-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-page-main .text-wrapper-8 {
+  color: #000000;
+  font-family: var(--body-text-large-font-family);
+  font-size: var(--body-text-large-font-size);
+  font-style: var(--body-text-large-font-style);
+  font-weight: var(--body-text-large-font-weight);
+  letter-spacing: var(--body-text-large-letter-spacing);
+  line-height: var(--body-text-large-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-page-main .frame-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.user-page-main .frame-7 {
+  height: 30px;
+  min-width: 168px;
+  position: relative;
+}
+
+.user-page-main .img {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.user-page-main .text-wrapper-9 {
+  color: #000000;
+  font-family: var(--body-text-large-font-family);
+  font-size: var(--body-text-large-font-size);
+  font-style: var(--body-text-large-font-style);
+  font-weight: var(--body-text-large-font-weight);
+  left: 35px;
+  letter-spacing: var(--body-text-large-letter-spacing);
+  line-height: var(--body-text-large-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.user-page-main .frame-8 {
+  height: 30px;
+  min-width: 202px;
+  position: relative;
+}
+
+.user-page-main .frame-9 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.user-page-main .tofu-single-instance {
+  height: 30px !important;
+  left: unset !important;
+  min-width: 33.66px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.user-page-main .p {
+  color: #000000;
+  font-family: var(--heading-2-font-family);
+  font-size: var(--heading-2-font-size);
+  font-style: var(--heading-2-font-style);
+  font-weight: var(--heading-2-font-weight);
+  letter-spacing: var(--heading-2-letter-spacing);
+  line-height: var(--heading-2-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.user-page-main .header-instance {
+  left: 0 !important;
+  mix-blend-mode: normal !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.user-page-main .design-component-instance-node {
+  height: 40px !important;
+  left: unset !important;
+  min-width: 43.95px !important;
+  position: relative !important;
+  top: unset !important;
+  width: unset !important;
+}
+
+.user-page-main .user-tab-group-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1090px !important;
+}
