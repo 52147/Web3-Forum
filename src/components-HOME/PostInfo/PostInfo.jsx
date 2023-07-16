@@ -5,7 +5,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 
 import PropTypes from "prop-types";
 import React from "react";
-import { XnixLineMessage210 } from "../../icons/XnixLineMessage210";
+import { XnixLineMessage210 } from "../../icons-HOME/XnixLineMessage210";
 import { IconButton } from "../IconButton";
 import { XnixLineBook } from "../XnixLineBook";
 import { XnixLineUser } from "../XnixLineUser";

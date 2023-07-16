@@ -5,7 +5,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 
 import PropTypes from "prop-types";
 import React from "react";
-import { DownArrow } from "../../icons/DownArrow";
+import { DownArrow } from "../../icons-HOME/DownArrow";
 import "./style.css";
 
 export const UpDownButton = ({

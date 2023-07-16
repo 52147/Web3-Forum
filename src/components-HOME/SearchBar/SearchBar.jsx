@@ -5,7 +5,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 
 import PropTypes from "prop-types";
 import React from "react";
-import { XnixLineSearch } from "../../icons/XnixLineSearch";
+import { XnixLineSearch } from "../../icons-HOME/XnixLineSearch";
 import "./style.css";
 
 export const SearchBar = ({ icon = true }) => {

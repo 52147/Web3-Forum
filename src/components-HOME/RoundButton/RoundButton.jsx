@@ -5,7 +5,7 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 
 import PropTypes from "prop-types";
 import React from "react";
-import { PlusSign2 } from "../../icons/PlusSign2";
+import { PlusSign2 } from "../../icons-HOME/PlusSign2";
 import "./style.css";
 
 export const RoundButton = ({ hasIcon = true, text = "Button", importance, className }) => {

@@ -6,9 +6,9 @@ Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcN
 import PropTypes from "prop-types";
 import React from "react";
 import { useReducer } from "react";
-import { DownArrow } from "../../icons/DownArrow";
-import { RightArrow } from "../../icons/RightArrow";
-import { XnixLineMessage210 } from "../../icons/XnixLineMessage210";
+import { DownArrow } from "../../icons-HOME/DownArrow";
+import { RightArrow } from "../../icons-HOME/RightArrow";
+import { XnixLineMessage210 } from "../../icons-HOME/XnixLineMessage210";
 import { PostInfo } from "../PostInfo";
 import { Tags } from "../Tags";
 import { UpDownButton } from "../UpDownButton";
